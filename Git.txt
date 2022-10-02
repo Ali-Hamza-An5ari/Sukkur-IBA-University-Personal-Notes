@@ -1,0 +1,72 @@
+git config --global user.name
+
+git config --global user.email
+
+git init 
+ 
+git clone
+
+ls -lart //show all hidden folders
+
+Untrack: no tracking of versions 
+Staging area: 
+
+For merging  
+goto master with git checkout master
+git merge abcBranch
+
+
+the code changes get merged in, but also all the commits that went into the feature branch
+
+The current branch will be updated to reflect the merge, but the target branch will be completely unaffected. Again, this means that git merge is often used in conjunction with git checkout for selecting the current branch and git branch -d for deleting the obsolete target branch
+
+
+
+
+
+=========
+
+Push existing project in git
+
+-create a git repo
+-goto folders and open git bash
+-write git remote origin URL
+-Copy all project into the new folderr
+-now add files into stage area with git add .
+-git commit -m "abc"
+-git remote add origin PURL
+-git push -f origin master
+
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin <project url>
+git push -f origin master
+
+
+
+
+
+Smart Contracts
+https://github.com/Ali-Hamza-An5ari/Smart_Contract_VendingMachine.git
+
+https://github.com/Ali-Hamza-An5ari/Smart_Contract_Lottery
+
+You can explore my Github for other development portfolio: https://github.com/Ali-Hamza-An5ari
+
+I am a BS Computer Science VII Student at Sukkur IBA University on fully-funded NTHP scholarship. I have learned different back-end and front-end development technologies including Java, C# .NET, Entity Framework, ADO .NET, ASP .NET, LINQ, ReactJS, NodeJs, Blockchain and Machine Learning. 
+
+Besides, I am a freelance developer and coding tutor at Fiverr. 
+checkout my Fiverr portfolio as well.   
+https://www.fiverr.com/alihamza354
+
+I am a tech enthusiastic person who love to learn and implement programming technologies.
+
+
+
+
+
+
+
+
+
