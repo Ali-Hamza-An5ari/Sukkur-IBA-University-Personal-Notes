@@ -22,8 +22,6 @@ The current branch will be updated to reflect the merge, but the target branch w
 
 
 
-
-
 =========
 
 Push existing project in git
@@ -42,8 +40,6 @@ git add .
 git commit -m "Initial commit"
 git remote add origin <project url>
 git push -f origin master
-
-
 
 
 
