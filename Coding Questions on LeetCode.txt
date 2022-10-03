@@ -12,8 +12,6 @@ Top recent FB tagged Coding Questions on LeetCode
 9. Partition Equal Subset Sum (medium)
 10. Alien Dictionary (hard)
 
-
-
 There are around 20 of these coding problem patterns that I believe can help anyone learn these beautiful 
 algorithmic techniques and make a real difference in the coding interviews.
 
