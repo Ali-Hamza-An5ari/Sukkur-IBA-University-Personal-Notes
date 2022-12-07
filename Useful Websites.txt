@@ -4,3 +4,9 @@ https://www.offerzen.com/reports/software-developer-south-africa/?gclid=Cj0KCQjw
 To higher Image resolution https://replicate.com/
 
 TO generate AI text, code and searches: https://beta.openai.com/playground
+
+chat with openai https://chat.openai.com/auth/login
+
+To make passport size pictures: https://www.cutout.pro/
+
+Remove unwanted from image: https://cleanup.pictures/
