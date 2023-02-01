@@ -42,7 +42,6 @@ git remote add origin <project url>
 git push -f origin master
 
 
-
 Smart Contracts
 https://github.com/Ali-Hamza-An5ari/Smart_Contract_VendingMachine.git
 
