@@ -3,7 +3,7 @@ Warm up interview preparation by Google: https://grow.google/certificates/interv
 ====================================
 Architecture and design
 
-Expert talks on System Design and architecture
+Expert talks on System Design and architecture: https://simonbrown.je/
 
 
 =====================
