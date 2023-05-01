@@ -10,6 +10,9 @@ Free courses for Udemy: https://www.discudemy.com/search
 ------------
 Top System design courses article link
 https://medium.com/javarevisited/hello-guys-if-you-are-preparing-for-system-design-interview-or-just-want-to-improve-your-software-7bc0034ac015
+
+- https://www.youtube.com/watch?v=VvZf7lISfgs
+- https://www.java67.com/2019/09/top-5-courses-to-learn-system-design.html
 =====================
 South African Website for job 
 https://www.offerzen.com/reports/software-developer-south-africa/?gclid=Cj0KCQjw8O-VBhCpARIsACMvVLPw8ECWJf8Nhnzb7tmaj8MbU2dkT2ZIsf3AV7Z7vNt5PCx77cCrb6oaAlj9EALw_wcB&hsa_acc=2228750461&hsa_ad=594042387106&hsa_cam=15903049908&hsa_grp=131842046149&hsa_kw=offerzen&hsa_mt=p&hsa_net=adwords&hsa_src=g&hsa_tgt=aud-1501258491277%3Akwd-389129162344&hsa_ver=3
