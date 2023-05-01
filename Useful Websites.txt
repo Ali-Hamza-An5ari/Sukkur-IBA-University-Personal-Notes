@@ -5,7 +5,6 @@ Architecture and design
 
 Expert talks on System Design and architecture: https://simonbrown.je/
 
-
 ===============
 Free courses for Udemy: https://www.discudemy.com/search 
 
