@@ -58,7 +58,16 @@ https://www.fiverr.com/alihamza354
 I am a tech enthusiastic person who love to learn and implement programming technologies.
 
 
+Connect to databasse
 
+Server=c.dev-sql-cluster.postgres.database.azure.com;Database=citus;Port=5432;User Id=citus;Password={your_password};Ssl Mode=Require;
+jdbc:postgresql://c.dev-sql-cluster.postgres.database.azure.com:5432/citus?user=citus&password={your_password}&sslmode=require
+65eIA%IVkdej4jwd / citus
+
+https://app.swaggerhub.com/apis/ProLeagueNetwork/pln-sport-api/1.0.4
+
+https://github.com/dzbrody/pln-swagger-sport-api 
+''203.81.217.231
 
 
 
