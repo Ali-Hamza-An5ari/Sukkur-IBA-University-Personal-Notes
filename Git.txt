@@ -69,6 +69,29 @@ https://app.swaggerhub.com/apis/ProLeagueNetwork/pln-sport-api/1.0.4
 https://github.com/dzbrody/pln-swagger-sport-api 
 ''203.81.217.231
 
+TO upload your local project on Github
+
+-Go to the project folder
+git init 
+
+//make your project into git repository and creates a .git directory in the folder
+git add . 
+
+//add all files into staged area. Only files in the staged area can be commited. git add abc.java for a single file
+git status 
+git commit -m "First"
+
+//with message
+
+-Now create a blank repository on Github. and copy its URL like https://github.com/Ali-Hamza-An5ari/HTML_MarkSheet.git
+-Run this to link your project with github repositor. 
+
+git remote add origin https://github.com/Ali-Hamza-An5ari/HTML_MarkSheet.git 
+
+local repository needs to know which repository the remote have to linked. we added remote URL with nick name origin (origin is a standard name) 
+git push will not work because we have not defined the default repository branch for the local branch so need to specify maste.
+
+git push origin master
 
 
 
