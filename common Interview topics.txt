@@ -1,0 +1,57 @@
+Technical interviews can be a lot more than just DSA.
+
+Some interviewers might just stick with DSA and OOPs while others can grill you on core CS concepts.
+
+Here’s a list of the most asked CS core concept interview questions-
+
+☘️OOPs Questions
+
+-Pillars of OOPs
+-Difference between class and object
+-Abstract class
+-Friend class and virtual functions
+-Run time polymorphism vs compile time polymorphism
+-Constructor and its types
+-Constructor vs Destructor
+-Access modifiers
+-Static - variables, Functions, Objects
+
+☘️Operating System Questions
+
+-Process vs Thread
+-Deadlock and its prevention methods
+-Scheduling
+-Preemptive and non-preemptive scheduling
+-Virtual memory management
+-Paging
+-Segmentation
+-Multi-threading
+-Page fault
+-Kernel
+-Context Switching
+
+☘️DBMS Questions
+
+-DBMS vs RDBMS
+-Normalization (everything about it) and Denormalization
+-Indexing
+-DELETE vs TRUNCATE command
+-Locks
+-Primary Key and Foreign Key
+-Indexing
+-E-R model
+-ACID properties
+-Triggers and Procedures
+
+☘️Computer Network Questions
+
+-TCP vs UDP
+-ipv4 vs ipv6
+-OSI model vs TCP/IP model
+-DNS
+-HTTP vs HTTPS
+-Flow Control vs Error Control
+-QoS
+-Subnetting
+
+It’s not limited to these questions only but these questions have a high frequency of being asked in technical interviews. If you are preparing for one, make sure to at least cover these topics.
