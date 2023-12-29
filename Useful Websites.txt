@@ -1,3 +1,12 @@
+==========
+Pluralsight courses for ASP .NET Core
+
+https://www.pluralsight.com/paths/securing-aspnet-and-aspnet-core-applications
+https://www.pluralsight.com/paths/application-development-on-microsoft-azure
+https://www.pluralsight.com/paths/net-developer-on-microsoft-azure
+https://www.pluralsight.com/courses/asp-dot-net-core-6-web-api-deep-dive
+https://www.pluralsight.com/courses/aspdotnet-core-6-web-api-best-practices
+
 ===============
 YOUTUBE
 ===============
