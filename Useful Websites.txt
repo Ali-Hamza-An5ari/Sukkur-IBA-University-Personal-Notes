@@ -11,6 +11,7 @@ https://www.pluralsight.com/courses/aspdotnet-core-6-web-api-best-practices
 YOUTUBE
 ===============
 for MAANG preparation https://www.youtube.com/@Power_Couple
+for System design Youtube channel: Code karle
 for IELTs sam and ash
 for System design interviews: Code karle
 Pluralsight https://www.youtube.com/@pluralsight/playlists
