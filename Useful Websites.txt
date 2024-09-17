@@ -7,6 +7,8 @@ https://www.pluralsight.com/paths/net-developer-on-microsoft-azure
 https://www.pluralsight.com/courses/asp-dot-net-core-6-web-api-deep-dive
 https://www.pluralsight.com/courses/aspdotnet-core-6-web-api-best-practices
 
+==========
+Google map animal: https://bucksblog.weebly.com/safari-google-earth-hunt.html
 ===============
 YOUTUBE
 ===============
